@@ -15,23 +15,22 @@
 
 <!-- * -->
 
-<p>
- Me alegro de verte... 
- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
- 
+### Me alegro de verte... <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
+
  <!-- </br>  -->
- Soy <a href="">Fernando Sosa</a>, 
- desarrollador Fron-End de 
- <img src="https://cdn-icons-png.flaticon.com/128/12364/12364238.png" width="13"/> 
- <b>Córdoba, Argetina</b>.
 
-- SKILLS
+Soy <a href="">Fernando Sosa</a>,
+desarrollador Fron-End de
+<img src="https://cdn-icons-png.flaticon.com/128/12364/12364238.png" width="13"/>
+<b>Córdoba, Argetina</b>.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<!-- - SKILLS -->
 
-<br>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Lenguajes</b>
+<!-- <br> -->
+
+<!-- ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Lenguajes</b> -->
 
 <p>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
