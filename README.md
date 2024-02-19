@@ -10,11 +10,11 @@
 <p align="end">
 	<!-- <a href="mailto:fer.sosa.info@gmail.com"><img img src="" alt="Gmail"/></a> -->
 	<a href="mailto:fer.sosa.info@gmail.com"><img img src="https://img.shields.io/badge/%2Ffer.sosa.info-tag?style=plastic&logo=gmail&logoColor=%23fff&labelColor=%23f33&color=%23f33
-  " alt="Gmail"/></a>
+  " target="_blank" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/fercode"><img img src="https://img.shields.io/badge/%2Ffercode-tag?style=plastic&logo=linkedin&logoColor=%23fff&labelColor=%23126bc4&color=%23126bc4
-  " alt="Linkedin"/></a>
+  " target="_blank" alt="Linkedin"/></a>
 	<a href="https://github.com/fergsosa"><img img src="https://img.shields.io/badge/%2Ffergsosa-tag?style=plastic&logo=github&logoColor=%23fff&labelColor=%23000&color=%23000
-  " alt="GitHub"/></a>
+  " target="_blank" alt="GitHub"/></a>
 </p>
 
 <!-- * -->
