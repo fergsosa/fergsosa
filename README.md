@@ -8,33 +8,39 @@
 <!-- * -->
 
 <p align="end">
-	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<!-- <a href="mailto:fer.sosa.info@gmail.com"><img img src="" alt="Gmail"/></a> -->
+	<a href="mailto:fer.sosa.info@gmail.com"><img img src="https://img.shields.io/badge/%2Ffer.sosa.info-tag?style=plastic&logo=gmail&logoColor=%23fff&labelColor=%23f33&color=%23f33
+  " alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/fercode"><img img src="https://img.shields.io/badge/%2Ffercode-tag?style=plastic&logo=linkedin&logoColor=%23fff&labelColor=%23126bc4&color=%23126bc4
+  " alt="Linkedin"/></a>
+	<a href="https://github.com/fergsosa"><img img src="https://img.shields.io/badge/%2Ffergsosa-tag?style=plastic&logo=github&logoColor=%23fff&labelColor=%23000&color=%23000
+  " alt="GitHub"/></a>
 </p>
 
 <!-- * -->
 
 ### Me alegro de verte... <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
 
- <!-- </br>  -->
-
 Soy <a href="">Fernando Sosa</a>,
-desarrollador Fron-End de
+desarrollador Front-End de
 <img src="https://cdn-icons-png.flaticon.com/128/12364/12364238.png" width="13"/>
-<b>Córdoba, Argetina</b>.
+<b>Córdoba, Argentina</b>.
 
-<!-- - SKILLS -->
+<!-- * SKILLS -->
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<!-- ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> -->
 
-<!-- <br> -->
-
-<!-- ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Lenguajes</b> -->
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades y Herramientas</b>
 
 <p>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="img/html.svg"></a>
+    <a href="#"><img alt="CSS" src="img/css.svg"></a>
+    <a href="#"><img alt="CSS" src="img/js.svg"></a>
+    <a href="#"><img alt="CSS" src="img/react.svg"></a>
+    <a href="#"><img alt="CSS" src="img/ts.svg"></a>
+    <a href="#"><img alt="CSS" src="img/git.svg"></a>
+    <a href="#"><img alt="CSS" src="img/figma.svg"></a>
+    <a href="#"><img alt="CSS" src="img/illustrator.svg"></a>
+    <a href="#"><img alt="CSS" src="img/photoshop.svg"></a>
+    <a href="#"><img alt="CSS" src="img/terminal.svg"></a>
 </p>
