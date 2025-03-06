@@ -33,17 +33,26 @@ desarrollador Front-End de
 
 <!-- ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> -->
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades y Herramientas</b>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Front-End</b> <a href="#"><img alt="html" src="img/html.svg"></a><a href="#"><img alt="css" src="img/css.svg"></a><a href="#"><img alt="js" src="img/js.svg"></a><a href="#"><img alt="react" src="img/react.svg"></a><a href="#"><img alt="ts" src="img/ts.svg"></a>
 
-<p>
-    <a href="#"><img alt="CSS" src="img/html.svg"></a>
-    <a href="#"><img alt="CSS" src="img/css.svg"></a>
-    <a href="#"><img alt="CSS" src="img/js.svg"></a>
-    <a href="#"><img alt="CSS" src="img/react.svg"></a>
-    <a href="#"><img alt="CSS" src="img/ts.svg"></a>
-    <a href="#"><img alt="CSS" src="img/git.svg"></a>
-    <a href="#"><img alt="CSS" src="img/figma.svg"></a>
-    <a href="#"><img alt="CSS" src="img/illustrator.svg"></a>
-    <a href="#"><img alt="CSS" src="img/photoshop.svg"></a>
-    <a href="#"><img alt="CSS" src="img/terminal.svg"></a>
-</p>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Back-End</b> <a href="#"><img alt="nodejs" src="img/nodejs.svg"></a><a href="#"><img alt="express" src="img/express.svg"></a><a href="#"><img alt="mysql_" src="img/mysql_.svg"></a><a href="#"><img alt="sqlite" src="img/sqlite.svg"></a><a href="#"><img alt="mongodb" src="img/mongodb.svg"></a>
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Herramientas</b> <a href="#"><img alt="git" src="img/git.svg"></a><a href="#"><img alt="figma" src="img/figma.svg"></a><a href="#"><img alt="terminal" src="img/terminal.svg"></a><a href="#"><img alt="illustrator" src="img/illustrator.svg"></a><a href="#"><img alt="photoshop" src="img/photoshop.svg"></a>
+
+<!-- <p>
+    <a href="#"><img alt="html" src="img/html.svg"></a>
+    <a href="#"><img alt="css" src="img/css.svg"></a>
+    <a href="#"><img alt="js" src="img/js.svg"></a>
+    <a href="#"><img alt="react" src="img/react.svg"></a>
+    <a href="#"><img alt="ts" src="img/ts.svg"></a>
+    <a href="#"><img alt="git" src="img/git.svg"></a>
+    <a href="#"><img alt="nodejs" src="img/nodejs.svg"></a>
+    <a href="#"><img alt="express" src="img/express.svg"></a>
+    <a href="#"><img alt="mysql_" src="img/mysql_.svg"></a>
+    <a href="#"><img alt="sqlite" src="img/sqlite.svg"></a>
+    <a href="#"><img alt="mongodb" src="img/mongodb.svg"></a>
+    <a href="#"><img alt="figma" src="img/figma.svg"></a>
+    <a href="#"><img alt="illustrator" src="img/illustrator.svg"></a>
+    <a href="#"><img alt="photoshop" src="img/photoshop.svg"></a>
+    <a href="#"><img alt="terminal" src="img/terminal.svg"></a>
+</p> -->
